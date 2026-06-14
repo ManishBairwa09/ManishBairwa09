@@ -1,23 +1,20 @@
+````markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Manish%20Bairwa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Engineer;Machine+Learning+Engineer;Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Data-Driven+Products"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Machine+Learning+Engineer;Data+Science+Enthusiast;Problem+Solver;Building+Data-Driven+Solutions"/>
 
 <br/>
 
 ![B.Tech](https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-7C3AED?style=for-the-badge)
-![JECRC](https://img.shields.io/badge/JECRC-Engineering%20Student-6366F1?style=for-the-badge)
-![ML](https://img.shields.io/badge/Machine-Learning-8B5CF6?style=for-the-badge)
-![OpenToWork](https://img.shields.io/badge/Open%20To-Opportunities-A855F7?style=for-the-badge)
+![JECRC](https://img.shields.io/badge/JECRC-College%20Jaipur-6366F1?style=for-the-badge)
+![MachineLearning](https://img.shields.io/badge/Machine%20Learning-Engineer-A855F7?style=for-the-badge)
+![OpenToWork](https://img.shields.io/badge/Open%20To-Internships-4F46E5?style=for-the-badge)
 
-![Location](https://img.shields.io/badge/Location-Jaipur,%20India-4F46E5?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Jaipur%2C%20India-4F46E5?style=for-the-badge)
 
-<a href="https://github.com/ManishBairwa09">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/manish-bairwa">
+<a href="https://www.linkedin.com/in/manish-bairwa-294062263">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -32,9 +29,7 @@
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=ManishBairwa09&style=for-the-badge&color=7C3AED)
-
 ![](https://img.shields.io/github/followers/ManishBairwa09?style=for-the-badge&color=7C3AED)
-
 ![](https://img.shields.io/github/stars/ManishBairwa09?affiliations=OWNER&style=for-the-badge&color=7C3AED)
 
 </div>
@@ -43,29 +38,19 @@
 
 # About Me
 
-I am an **Artificial Intelligence & Data Science undergraduate** focused on building scalable software products powered by data, machine learning, and modern engineering practices.
+I am a passionate **Artificial Intelligence & Data Science undergraduate** at **JECRC College, Jaipur**, focused on building intelligent systems that transform data into actionable business outcomes.
 
-My experience spans the complete machine learning lifecycle—from exploratory data analysis and feature engineering to model training, evaluation, deployment, and business impact measurement. During internships and academic projects, I have developed production-ready solutions including customer churn prediction systems, recommendation engines, and customer segmentation platforms.
+My experience spans the complete machine learning lifecycle—from data preprocessing and exploratory data analysis to model development, evaluation, and deployment. I enjoy solving real-world problems through machine learning, data analytics, and software engineering.
 
-I combine strong foundations in:
-
-- Software Engineering
-- Machine Learning
-- Data Science
-- Full Stack Development
-- Data Structures & Algorithms
-- Computer Networks
-- Operating Systems
-- Database Systems
+I have built production-ready projects including a telecom customer churn prediction platform, a collaborative filtering movie recommendation system, and SQL-based retail analytics solutions. Through internships, hackathons, and continuous DSA practice, I am developing strong engineering fundamentals and problem-solving abilities.
 
 ### Open To
 
-- Machine Learning Engineering Roles
+- Machine Learning Engineer Internships
 - Data Science Internships
 - Software Engineering Internships
 - AI Research Opportunities
 - Open Source Contributions
-- Product Engineering Teams
 
 ---
 
@@ -74,25 +59,36 @@ I combine strong foundations in:
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
 </p>
 
-## Frontend
+## Machine Learning & Data Science
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+<img src="https://img.shields.io/badge/Scikit--Learn-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/SMOTE-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-A855F7?style=for-the-badge"/>
 </p>
 
-## Backend & Databases
+## Data Visualization
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+<img src="https://img.shields.io/badge/Matplotlib-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-7C3AED?style=for-the-badge"/>
 </p>
 
-## Cloud, DevOps & Tooling
+## Deployment & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,linux" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
 </p>
 
 ---
@@ -101,96 +97,96 @@ I combine strong foundations in:
 
 | Domain | Proficiency | Details |
 |----------|------------|----------|
-| Machine Learning | Advanced | Supervised & Unsupervised Learning |
-| Feature Engineering | Advanced | Data Cleaning, Transformation, Selection |
-| Model Evaluation | Advanced | Precision, Recall, F1, ROC-AUC |
-| Deep Learning | Intermediate | Neural Networks Fundamentals |
+| Machine Learning | Advanced | Classification & Prediction Models |
+| Data Analysis | Advanced | EDA, Cleaning, Transformation |
 | Recommendation Systems | Advanced | Collaborative Filtering |
-| Data Analysis | Advanced | Pandas, NumPy, Statistical Analysis |
-| Data Visualization | Advanced | Matplotlib, Seaborn |
-| Deployment | Advanced | Streamlit Applications |
-| SQL Analytics | Advanced | RFM Analysis, Segmentation |
-| MLOps | Intermediate | Deployment & Monitoring Fundamentals |
+| SQL Analytics | Advanced | Business Intelligence & Insights |
+| Feature Engineering | Advanced | Model Optimization |
+| Model Evaluation | Advanced | Accuracy, Precision, Recall |
+| Data Visualization | Advanced | Matplotlib & Seaborn |
+| Deployment | Intermediate | Streamlit Applications |
+| Deep Learning | Intermediate | Neural Network Fundamentals |
+| Computer Science Fundamentals | Advanced | DSA, DBMS, OS, CN |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>Customer Churn Prediction Platform</b></summary>
+<summary><b>Customer Churn Analysis & Prediction</b></summary>
 
 ### Overview
 
-Built an end-to-end machine learning platform to predict telecom customer churn using advanced classification techniques and imbalance handling strategies.
+Built an end-to-end machine learning solution to predict telecom customer churn and identify key drivers behind customer attrition.
 
 | Category | Details |
 |-----------|-----------|
-| Stack | Python, Scikit-Learn, Pandas, Seaborn, Streamlit |
+| Stack | Python, Scikit-Learn, Pandas, NumPy, Seaborn, Streamlit |
 | Scale | 7,000+ Telecom Records |
 | Performance | 85% Accuracy |
 | Security | Data Validation Pipeline |
 | Impact | Improved Customer Retention Insights |
-| Repository | GitHub Repository |
+| Repository | https://github.com/ManishBairwa09/Custome-Churn-Analysis-And-Prediction |
 
 ### Engineering Highlights
 
-- Logistic Regression and Random Forest comparison
-- SMOTE-based imbalance handling
-- Feature importance analysis
-- Interactive Streamlit dashboard
-- Business-focused churn recommendations
+- Logistic Regression & Random Forest
+- SMOTE for Class Imbalance
+- Feature Engineering
+- EDA & Visualization
+- Streamlit Deployment
 
 </details>
 
 <details>
-<summary><b>RFM Customer Segmentation System</b></summary>
+<summary><b>Movie Recommendation System</b></summary>
 
 ### Overview
 
-Developed a customer intelligence platform capable of identifying high-value customers and enabling targeted retention strategies.
-
-| Category | Details |
-|-----------|-----------|
-| Stack | SQL, Python, Pandas, Matplotlib |
-| Scale | 100K+ Orders |
-| Performance | Real-Time Segmentation Analytics |
-| Security | Structured Data Validation |
-| Impact | Top 8% Customers Identified as Revenue Drivers |
-| Repository | GitHub Repository |
-
-### Engineering Highlights
-
-- NTILE-based RFM scoring
-- Customer lifecycle segmentation
-- Revenue contribution analysis
-- Marketing optimization insights
-- Data-driven customer targeting
-
-</details>
-
-<details>
-<summary><b>Recommendation Engine</b></summary>
-
-### Overview
-
-Designed and implemented a collaborative filtering recommendation system capable of generating personalized user recommendations.
+Built a collaborative filtering recommendation engine capable of generating personalized movie suggestions.
 
 | Category | Details |
 |-----------|-----------|
 | Stack | Python, Pandas, NumPy |
-| Scale | Production Ready |
-| Performance | Optimized Similarity Calculations |
-| Security | Data Integrity Checks |
-| Impact | Improved User Personalization |
-| Repository | GitHub Repository |
+| Scale | Recommendation Engine |
+| Performance | Personalized Suggestions |
+| Security | Data Validation |
+| Impact | Improved User Experience |
+| Repository | https://github.com/ManishBairwa09/Movie-Recommendation-System |
 
 ### Engineering Highlights
 
 - Collaborative Filtering
-- User Similarity Analysis
+- Similarity Scoring
 - Recommendation Ranking
-- Data Processing Pipeline
-- Personalized User Experience
+- Data Cleaning Pipeline
+- Personalized Recommendations
+
+</details>
+
+<details>
+<summary><b>SQL Retail Sales Analysis</b></summary>
+
+### Overview
+
+Analyzed retail transaction datasets using SQL to uncover trends, revenue drivers, and customer behavior insights.
+
+| Category | Details |
+|-----------|-----------|
+| Stack | SQL, MySQL |
+| Scale | Retail Sales Dataset |
+| Performance | Optimized Analytical Queries |
+| Security | Structured Database Design |
+| Impact | Business Intelligence Insights |
+| Repository | https://github.com/ManishBairwa09/Sql_Retail_Sales |
+
+### Engineering Highlights
+
+- Advanced SQL Queries
+- Revenue Analysis
+- Trend Identification
+- Customer Insights
+- Reporting & Analytics
 
 </details>
 
@@ -198,24 +194,24 @@ Designed and implemented a collaborative filtering recommendation system capable
 
 # Experience
 
-## Python Developer Intern | Grass Solution
+## Python Developer Intern | Grass Solution, Jaipur
 
 **Jun 2024 – Jul 2024**
 
-Worked on automation, backend development, and software validation initiatives supporting client-facing business solutions.
+Worked on automation and backend development initiatives supporting internal business operations and client-facing workflows.
 
 ### Scope of Work
 
-- Automated business workflows using Python
+- Automated recurring business processes using Python
 - Reduced manual effort by approximately 40%
 - Developed backend software modules
 - Conducted validation testing
-- Resolved integration defects before deployment
-- Improved software reliability and maintainability
+- Resolved integration issues before deployment
+- Improved software reliability
 
 ### Skills
 
-`Python` `Automation` `Backend Development` `Testing` `Debugging` `Software Engineering`
+`Python` `Automation` `Backend Development` `Testing` `Debugging`
 
 ---
 
@@ -226,10 +222,10 @@ Worked on automation, backend development, and software validation initiatives s
 | Recognition | Details |
 |-------------|----------|
 | DigiFest Hackathon | Built a data-driven solution for a Rajasthan Government problem statement |
-| Smart India Hackathon | Cleared internal institutional selection rounds |
-| Machine Learning Projects | Delivered production-ready ML applications |
-| DSA Practice | Active problem-solving and algorithmic development |
-| Academic Excellence | Strong AI & Data Science academic foundation |
+| Smart India Hackathon | Cleared JECRC internal selection round |
+| Machine Learning Projects | Built and deployed real-world ML applications |
+| DSA Practice | Active problem-solving in C++ |
+| AI & Data Science | Strong academic foundation |
 
 </div>
 
@@ -237,23 +233,7 @@ Worked on automation, backend development, and software validation initiatives s
 
 # Certifications
 
-## AWS
-
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws)
-
-## Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Database%20Fundamentals-F80000?style=for-the-badge&logo=oracle)
-
-## NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-7C3AED?style=for-the-badge)
-
-## Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
-
-## Additional
+<div align="center">
 
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-Deep%20Learning%20Institute-76B900?style=for-the-badge&logo=nvidia)
 
@@ -261,26 +241,20 @@ Worked on automation, backend development, and software validation initiatives s
 
 ![NetQ](https://img.shields.io/badge/NetQ-Deployment%20%26%20Installation-6366F1?style=for-the-badge)
 
+</div>
+
 ---
 
 # Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://leetcode.com/u/manish__09/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-Competitive%20Programming-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Programming%20Contests-5B4638?style=for-the-badge&logo=codechef"/>
+<a href="https://www.hackerrank.com/profile/Manish_05">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
 </a>
 
 </div>
@@ -335,27 +309,25 @@ Worked on automation, backend development, and software validation initiatives s
 
 ```yaml
 Learning:
-  - Advanced Machine Learning
+  - Machine Learning
   - Deep Learning
   - System Design
-  - MLOps
 
 Building:
   - AI Powered Applications
-  - Full Stack Projects
-  - Data Science Solutions
+  - Data Science Projects
+  - Analytics Solutions
 
 Exploring:
-  - LLM Applications
   - Generative AI
-  - Cloud Technologies
+  - LLM Applications
+  - MLOps
 
 Open To:
-  - ML Engineer Roles
+  - ML Engineer Internships
+  - Data Science Internships
   - Software Engineering Internships
-  - Open Source Contributions
-  - Research Collaborations
-```
+````
 
 ---
 
@@ -367,16 +339,12 @@ Open To:
 <img src="https://img.shields.io/badge/Gmail-mannu71652%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/manish-bairwa">
+<a href="https://www.linkedin.com/in/manish-bairwa-294062263">
 <img src="https://img.shields.io/badge/LinkedIn-Manish%20Bairwa-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/ManishBairwa09">
 <img src="https://img.shields.io/badge/GitHub-ManishBairwa09-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge"/>
 </a>
 
 </div>
@@ -385,10 +353,11 @@ Open To:
 
 <div align="center">
 
-*"Engineering intelligent systems that transform data into meaningful impact."*
+### "Transforming Data into Intelligent Solutions."
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
 
-<!-- Resume Source: :contentReference[oaicite:0]{index=0} -->
+```
+```
